@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291357191786",
+    "project_id": "tudorpr-2023",
+    "storage_bucket": "tudorpr-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291357191786:android:b45c886b66b6a685caa413",
+        "android_client_info": {
+          "package_name": "ro.tudopr.tudopr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyobNiewWaXZPQI4WaYsPicxzPsqaucTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
